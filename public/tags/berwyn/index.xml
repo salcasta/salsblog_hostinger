@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berwyn on Terminal</title>
+    <link>/tags/berwyn/</link>
+    <description>Recent content in Berwyn on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/berwyn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Post</title>
+      <link>/posts/my-example-blog/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/my-example-blog/</guid>
+      <description>&lt;h2 id=&#34;morning&#34;&gt;Morning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Went to the gym at 8AM&lt;/li&gt;
+&lt;li&gt;Did cardio for 30 min
+&lt;ul&gt;
+&lt;li&gt;15min/mile&lt;/li&gt;
+&lt;li&gt;10% incline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;I did chest and biceps
+&lt;ul&gt;
+&lt;li&gt;I tried out standing cable chest flys&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I felt really good. I will definitely add this exercise to my rotation&lt;/p&gt;
+&lt;h2 id=&#34;afternoon&#34;&gt;Afternoon&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Continued my reading of &amp;ldquo;S.P.Q.R&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I need to create another site with my findings of the Roman Empire from this book!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Looking to get into more hobbies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am feeling drone flying, a great way to incorporate video editing. DJI has so many different drone at different price points. The time to get in is now and start small.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;morning&#34;&gt;Morning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Went to the gym at 8AM&lt;/li&gt;
+&lt;li&gt;Did cardio for 30 min
+&lt;ul&gt;
+&lt;li&gt;15min/mile&lt;/li&gt;
+&lt;li&gt;10% incline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;I did chest and biceps
+&lt;ul&gt;
+&lt;li&gt;I tried out standing cable chest flys&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I felt really good. I will definitely add this exercise to my rotation&lt;/p&gt;
+&lt;h2 id=&#34;afternoon&#34;&gt;Afternoon&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Continued my reading of &amp;ldquo;S.P.Q.R&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I need to create another site with my findings of the Roman Empire from this book!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Looking to get into more hobbies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am feeling drone flying, a great way to incorporate video editing. DJI has so many different drone at different price points. The time to get in is now and start small.&lt;/p&gt;
+&lt;h3 id=&#34;pic-example&#34;&gt;Pic Example&lt;/h3&gt;
+&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202025-01-03%20at%206.02.51%20PM.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
