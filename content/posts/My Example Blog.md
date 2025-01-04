@@ -35,3 +35,6 @@ I am feeling drone flying, a great way to incorporate video editing. DJI has so 
 
 
 !![Image Description](/images/Screenshot%202025-01-03%20at%206.02.51%20PM.png)
+
+
+Will this update?
