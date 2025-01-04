@@ -8,67 +8,33 @@
     <language>en</language>
     <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Post</title>
-      <link>/posts/my-example-blog/</link>
+      <title>I Setup My Blog!</title>
+      <link>/posts/01_03_2025/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/my-example-blog/</guid>
-      <description>&lt;h2 id=&#34;morning&#34;&gt;Morning&lt;/h2&gt;
+      <guid>/posts/01_03_2025/</guid>
+      <description>&lt;h2 id=&#34;night&#34;&gt;Night&lt;/h2&gt;
+&lt;p&gt;I finished setting up my blog using Obsidian as my home for creating a post. I used &lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt; to style my blog/post automatically and have it be easy.&lt;/p&gt;
+&lt;p&gt;My Obsidian files and Hugo files are uploaded to my Github which is linked to my hosting site &lt;a href=&#34;https://www.hostinger.com/&#34;&gt;https://www.hostinger.com/&lt;/a&gt; via a webhook.&lt;/p&gt;
+&lt;p&gt;One script command is used in the terminal to make everything happen. So, I make my post in Obsidian and then run the script and my blog post is uploaded to the internet. Images will upload as well.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;night&#34;&gt;Night&lt;/h2&gt;
+&lt;p&gt;I finished setting up my blog using Obsidian as my home for creating a post. I used &lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt; to style my blog/post automatically and have it be easy.&lt;/p&gt;
+&lt;p&gt;My Obsidian files and Hugo files are uploaded to my Github which is linked to my hosting site &lt;a href=&#34;https://www.hostinger.com/&#34;&gt;https://www.hostinger.com/&lt;/a&gt; via a webhook.&lt;/p&gt;
+&lt;p&gt;One script command is used in the terminal to make everything happen. So, I make my post in Obsidian and then run the script and my blog post is uploaded to the internet. Images will upload as well.&lt;/p&gt;
+&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m very excited to start my blogging journey where I will just write about my day. The point is to motivate me to do something&amp;hellip;anything! If I can&amp;rsquo;t write about something then that means I had a very unproductive day. It doesn&amp;rsquo;t need to be productive but if I write about playing a new video game and that is all I have for that day, then that is a problem.&lt;/p&gt;
+&lt;p&gt;The goal is that I will force myself to&amp;hellip;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Went to the gym at 8AM&lt;/li&gt;
-&lt;li&gt;Did cardio for 30 min
-&lt;ul&gt;
-&lt;li&gt;15min/mile&lt;/li&gt;
-&lt;li&gt;10% incline&lt;/li&gt;
+&lt;li&gt;workout&lt;/li&gt;
+&lt;li&gt;read&lt;/li&gt;
+&lt;li&gt;cook&lt;/li&gt;
+&lt;li&gt;learn something new&lt;/li&gt;
+&lt;li&gt;go somewhere new&lt;/li&gt;
+&lt;li&gt;start a new hobby&lt;/li&gt;
+&lt;li&gt;plan a future trip&lt;/li&gt;
+&lt;li&gt;seriously anything!&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;I did chest and biceps
-&lt;ul&gt;
-&lt;li&gt;I tried out standing cable chest flys&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I felt really good. I will definitely add this exercise to my rotation&lt;/p&gt;
-&lt;h2 id=&#34;afternoon&#34;&gt;Afternoon&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Continued my reading of &amp;ldquo;S.P.Q.R&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I need to create another site with my findings of the Roman Empire from this book!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Looking to get into more hobbies&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I am feeling drone flying, a great way to incorporate video editing. DJI has so many different drone at different price points. The time to get in is now and start small.&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;morning&#34;&gt;Morning&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Went to the gym at 8AM&lt;/li&gt;
-&lt;li&gt;Did cardio for 30 min
-&lt;ul&gt;
-&lt;li&gt;15min/mile&lt;/li&gt;
-&lt;li&gt;10% incline&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;I did chest and biceps
-&lt;ul&gt;
-&lt;li&gt;I tried out standing cable chest flys&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I felt really good. I will definitely add this exercise to my rotation&lt;/p&gt;
-&lt;h2 id=&#34;afternoon&#34;&gt;Afternoon&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Continued my reading of &amp;ldquo;S.P.Q.R&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I need to create another site with my findings of the Roman Empire from this book!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Looking to get into more hobbies&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I am feeling drone flying, a great way to incorporate video editing. DJI has so many different drone at different price points. The time to get in is now and start small.&lt;/p&gt;
-&lt;h3 id=&#34;pic-example&#34;&gt;Pic Example&lt;/h3&gt;
-&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202025-01-03%20at%206.02.51%20PM.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Will this update?&lt;/p&gt;
-&lt;p&gt;Yes it did !!&lt;/p&gt;
-&lt;p&gt;Will this image upload?&lt;/p&gt;
-&lt;p&gt;!&lt;img src=&#34;/images/Screenshot%202025-01-03%20at%209.53.17%20PM.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;in order to create a somewhat compelling post. The goal is to do this for all of 2025.&lt;/p&gt;
 </content>
     </item>
     
