@@ -38,3 +38,10 @@ I am feeling drone flying, a great way to incorporate video editing. DJI has so 
 
 
 Will this update?
+
+Yes it did !!
+
+Will this image upload?
+
+!![Image Description](/images/Screenshot%202025-01-03%20at%209.53.17%20PM.png)
+
